@@ -1,2 +1,2 @@
 # PAW
-Proiect: casa de schimb valutar
+Tema proiectului: casa de schimb valutar
